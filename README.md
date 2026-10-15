@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Samrat 👋
 
-<!--
-**SamratMukherjee2007/SamratMukherjee2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year Computer Science and Engineering student
+interested in programming, software development, and problem-solving.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- C Programming
+- Arrays and fundamental programming concepts
+- Git and GitHub
+- C++ (alongside my college coursework)
+- Python
+
+## Goals
+
+- Strengthen my programming fundamentals
+- Solve problems and improve logical thinking
+- Build practical projects
+- Learn Data Structures and Algorithms
+- Contribute to open-source projects as I gain experience
+
+## Technologies
+
+- C
+- Python
+- Git
+- GitHub
+
+## Current Focus
+
+Building a strong foundation in programming through consistent
+practice and small, practical projects.
+
+---
+
+Always learning. Always building.
+
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
