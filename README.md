@@ -36,6 +36,4 @@ practice and small, practical projects.
 Always learning. Always building.
 
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
